@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tama App Store
 
 You can use the [editor on GitHub](https://github.com/eggman108/Tama-App-Store/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
