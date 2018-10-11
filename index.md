@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Sirent Camara
 
-![Image of Sirent Camera](/images/camera.png/)
+![Image of Sirent Camera](/camera.png/)
 
 ### Markdown
 
