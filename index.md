@@ -6,29 +6,11 @@
 
 [**Android**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
-### Markdown
+### Stop The Hiccup (Beta)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of Stop The Hiccup](/sth.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[**Android**](https://github.com/eggman108/Stop-The-Hiccup/releases)
 
 ### Jekyll Themes
 
