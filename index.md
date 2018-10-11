@@ -1,12 +1,9 @@
 ## Welcome to Tama App Store
 
-You can use the [editor on GitHub](https://github.com/eggman108/Tama-App-Store/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Sirent Camera (Beta)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Sirent Camera
-
-![Image of Sirent Camera](/camera.png/)[Android](https://github.com/eggman108/eggman108.github.io/releases/tag/v0.1-beta.1)
+![Image of Sirent Camera](/camera.png/)
+[**Android**](https://github.com/eggman108/eggman108.github.io/releases/tag/v0.1-beta.1)
 
 ### Markdown
 
