@@ -3,7 +3,8 @@
 ### Sirent Camera (Beta)
 
 ![Image of Sirent Camera](/camera.png/)
-[**Android**](https://github.com/eggman108/eggman108.github.io/releases/tag/v0.1-beta.1)
+
+[**Android**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
 ### Markdown
 
