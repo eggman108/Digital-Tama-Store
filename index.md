@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/eggman108/Tama-App-Store/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Sirent Camara
+
+![Image of Sirent Camera](/images/camera.png/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
