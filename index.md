@@ -1,12 +1,12 @@
 ## Welcome to Tama App Store
 
-### Sirent Camera (Beta)
+### Sirent Camera (Beta) for Android
 
-![Image of Sirent Camera](/camera.png/)
+![Image of Sirent Camera](/camera.png/)(https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
 [**Android**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
-### Stop The Hiccup (Beta)
+### Stop The Hiccup (Beta) for Android
 
 ![Image of Stop The Hiccup](/sth.png)
 
