@@ -7,8 +7,7 @@
 ### Stop The Hiccup (Beta) for Android
 
 ![Image of Stop The Hiccup](/sth.png)
-
-[**Android**](https://github.com/eggman108/Stop-The-Hiccup/releases)
+[**Download**](https://github.com/eggman108/Stop-The-Hiccup/releases)
 
 ### Jekyll Themes
 
