@@ -2,7 +2,7 @@
 
 ### Sirent Camera (Beta) for Android
 
-![Image of Sirent Camera](/camera.png/)(https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
+![Image of Sirent Camera](/camera.png/)   [**Download**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
 [**Android**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
 
