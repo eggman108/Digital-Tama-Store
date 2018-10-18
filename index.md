@@ -12,7 +12,7 @@
 
 ### PL for VALU Excel sheet
 
-
+![Image of PL-VALU for Excel](/pl-valu.png)
 [**Download**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ### Support or Contact
