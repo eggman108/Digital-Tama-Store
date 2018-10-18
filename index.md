@@ -3,7 +3,7 @@
 ### Sirent Camera (Beta) for Android
 
 ![Image of Sirent Camera](/camera.png/)
-[**Download**](https://github.com/eggman108/Sirent-Camera/releases/tag/v0.1-beta.1)
+[**Download**](https://github.com/eggman108/Sirent-Camera/releases)
 
 ### Stop The Hiccup (Beta) for Android
 
@@ -13,7 +13,7 @@
 ### PL for VALU Excel sheet
 
 
-[**Download**](https://github.com/eggman108/PL-VALU-EXCEL/releases/tag/v1.0)
+[**Download**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ### Support or Contact
 
