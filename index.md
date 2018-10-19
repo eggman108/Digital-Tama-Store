@@ -1,19 +1,19 @@
-## Welcome to Tama App Store
+## Welcome to 玉 App Store
 
-### Sirent Camera (Beta) for Android
+### PL for VALU Excel sheet
 
-![Image of Sirent Camera](/camera.png/)
-[**Download**](https://github.com/eggman108/Sirent-Camera/releases)
+![Image of PL-VALU for Excel](/pl-valu.png)
+[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ### Stop The Hiccup (Beta) for Android
 
 ![Image of Stop The Hiccup](/sth.png)
 [**Download**](https://github.com/eggman108/Stop-The-Hiccup/releases)
 
-### PL for VALU Excel sheet
+### Sirent Camera (Beta) for Android
 
-![Image of PL-VALU for Excel](/pl-valu.png)
-[**Download**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
+![Image of Sirent Camera](/camera.png/)
+[**Download**](https://github.com/eggman108/Sirent-Camera/releases)
 
 ### Support or Contact
 
