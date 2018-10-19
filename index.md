@@ -1,4 +1,4 @@
-## Welcome to 玉 App Store
+# Welcome to Tama App Store
 
 ### PL for VALU Excel sheet
 
