@@ -8,12 +8,12 @@
 ### Stop The Hiccup (Beta) for Android
 
 ![Image of Stop The Hiccup](/sth.png)
-[**Download**](https://github.com/eggman108/Stop-The-Hiccup/releases)
+[**Download Stop-The-Hiccup.apk**](https://github.com/eggman108/Stop-The-Hiccup/releases)
 
 ### Sirent Camera (Beta) for Android
 
 ![Image of Sirent Camera](/camera.png/)
-[**Download**](https://github.com/eggman108/Sirent-Camera/releases)
+[**Download Sirent-Camera.apk**](https://github.com/eggman108/Sirent-Camera/releases)
 
 ### Support or Contact
 
