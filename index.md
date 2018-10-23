@@ -19,6 +19,9 @@
 ![Image of monaca](/monaca.png/)
 [**monaca**](https://ja.monaca.io)
 
+![Image of wikitude](/wikitude.png/)
+[**wikitude**](https://wikitude.grapecity.com/)
+
 ## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
