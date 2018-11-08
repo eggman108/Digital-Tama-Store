@@ -31,14 +31,17 @@
 
 ![Image of Tanikaze](/images/b1.png/)
 
-![Image of Kiyoshi Shiga](/images/b2.png/)
 [**Kiyoshi Shiga - Wikipedia**](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
 
-![Image of Shihei Hayashi](/images/b3.png/)
+![Image of Kiyoshi Shiga](/images/b2.png/)
+
 [**Shihei Hayashi - Wikipedia**](https://ja.wikipedia.org/wiki/%E6%9E%97%E5%AD%90%E5%B9%B3)
 
-![Image of Masamune Date](/images/b4.png/)
+![Image of Shihei Hayashi](/images/b3.png/)
+
 [**Masamune Date - Wikipedia**](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
+
+![Image of Masamune Date](/images/b4.png/)
 
 ## Support or Contact
 
