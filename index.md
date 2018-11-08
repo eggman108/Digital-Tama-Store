@@ -1,4 +1,4 @@
-# Welcome to Tama App Store
+# Welcome to Tamastagram
 
 ## Unuploaded Pictures
 
