@@ -28,6 +28,7 @@
 ## Unuploaded Pictures
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(%E5%88%9D%E4%BB%A3))
+
 ![Image of Tanikaze](/images/b1.png/)
 
 ![Image of Kiyoshi Shiga](/images/b2.png/)
