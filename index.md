@@ -6,6 +6,22 @@
 ![Image of No10](/images/i10.png/)
 [https://www.instagram.com/p/Bn7i_U-DCvY/](https://www.instagram.com/p/Bn7i_U-DCvY/)
 
+### No.9
+![Image of No9](/images/i9.png/)
+[https://www.instagram.com/p/BpEY4UugKbf/](https://www.instagram.com/p/BpEY4UugKbf/)
+
+### No.8
+![Image of No8](/images/i8.png/)
+[https://www.instagram.com/p/BoF7nqCjFM1/](https://www.instagram.com/p/BoF7nqCjFM1/)
+
+### No.7
+![Image of No7](/images/i7.png/)
+[https://www.instagram.com/p/Bk9DKLoHq8G/](https://www.instagram.com/p/Bk9DKLoHq8G/)
+
+### No.6
+![Image of No6](/images/i6.png/)
+[https://www.instagram.com/p/BpGFvjYHvRN/](https://www.instagram.com/p/BpGFvjYHvRN/)
+
 ## Unuploaded Pictures
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
