@@ -1,5 +1,11 @@
 # Welcome to Tamastagram
 
+## Insta of the year 2018
+
+[**No.10**](https://www.instagram.com/p/Bn7i_U-DCvY/)
+
+![Image of No10](/images/i10.png/)
+
 ## Unuploaded Pictures
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
