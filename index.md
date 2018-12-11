@@ -1,6 +1,6 @@
 # Welcome to Tamastagram
 
-## My Insta of the year 2018
+## Insta of the year 2018
 
 ### No.10
 ![Image of No10](/images/i10.png/)
