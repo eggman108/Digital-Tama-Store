@@ -4,7 +4,7 @@
 
 ### 平成元年(1989年)
 1月8日(日)
-![Image of h01](/images/h01.png/)
+![Image of h01](/images/h01.jpg/)
 
 ## Insta of the year 2018 My Best 10
 
