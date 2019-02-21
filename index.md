@@ -4,7 +4,10 @@
 
 ### 平成元年(1989年)
 1月8日(日)
+
 ![Image of h01](/images/h01.jpg/)
+
+新元号「平成」の第一印象は「なんか古風だな」でした
 
 ## Insta of the year 2018 My Best 10
 
