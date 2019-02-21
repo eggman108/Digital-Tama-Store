@@ -9,6 +9,22 @@
 
 新元号「平成」の第一印象は「なんか古風だな」でした
 
+6月3日(土)
+
+![Image of h02](/images/h02.jpg/)
+
+6月4日(日)
+
+![Image of h03](/images/h03.jpg/)
+
+天安門事件
+
+11月9日(木)
+
+![Image of h04](/images/h04.jpg/)
+
+「ベルリンの壁」崩壊
+
 ## Insta of the year 2018 My Best 10
 
 ### No.10
