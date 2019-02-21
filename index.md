@@ -1,4 +1,10 @@
-# Welcome to Tamastagram
+# Welcome to Tama site
+
+## Hey Say Diary
+
+### 平成元年(1989年)
+1月8日(日)
+![Image of h01](/images/h01.png/)
 
 ## Insta of the year 2018 My Best 10
 
