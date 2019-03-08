@@ -6,7 +6,7 @@
 
 ### ds1
 
-![Image of ds1](/images/ds1.png/)
+![Image of ds1](/images/ds1s.png/)
 [**Download ds1.png**](https://github.com/eggman108/ds1/blob/master/ds1.png)
 
 ## Hey Say Diary
