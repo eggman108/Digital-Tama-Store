@@ -1,5 +1,14 @@
 # Welcome to Tama site
 
+## デジタル書道
+
+### How to download
+
+### ds1
+
+![Image of ds1](/images/ds1.png/)
+[**Download ds1.png**](https://github.com/eggman108/ds1/blob/master/ds1.png)
+
 ## Hey Say Diary
 
 ### 平成元年(1989年)
