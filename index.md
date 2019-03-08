@@ -3,6 +3,8 @@
 ## デジタル書道
 
 ### How to download
+画像上で右クリックして「名前をつけて画像を保存」でダウンロードできます
+![Image of hd1](/images/hd1.png/)
 
 ### ds1
 
