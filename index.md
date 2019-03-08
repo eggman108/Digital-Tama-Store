@@ -2,7 +2,7 @@
 
 ## デジタル書道
 
-### How to download
+### ダウンロード方法
 画像上で右クリックして「名前を付けて画像を保存」でダウンロードできます
 ![Image of hd1](/images/hd1.png/)
 
@@ -18,12 +18,14 @@
 
 ![Image of ds3](/images/ds3.png/)
 
-### PL for VALU Excel template
-How to download
+### 損益計算書 for VALU Excel テンプレート
+ダウンロード方法
+
+①赤丸で囲ったテキストをクリックします
 
 ![Image of hd2](/images/hd2.png/)
 
-ブラウザの左矢印で戻ります
+②ブラウザの左矢印で戻ります
 
 ![Image of PL-VALU for Excel](/pl-valu.png)
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
