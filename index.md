@@ -244,6 +244,8 @@ How to download
 
 ![Image of hd2](/images/hd2.png/)
 
+ブラウザの左矢印で戻ります
+
 ![Image of PL-VALU for Excel](/pl-valu.png)
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
