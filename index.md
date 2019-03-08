@@ -26,7 +26,6 @@ How to download
 ブラウザの左矢印で戻ります
 
 ![Image of PL-VALU for Excel](/pl-valu.png)
-
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ## 平成日記
