@@ -18,6 +18,16 @@
 
 ![Image of ds3](/images/ds3.png/)
 
+### PL for VALU Excel sheet
+How to download
+
+![Image of hd2](/images/hd2.png/)
+
+ブラウザの左矢印で戻ります
+
+![Image of PL-VALU for Excel](/pl-valu.png)
+[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
+
 ## Hey Say Diary
 
 ### 平成元年(1989年)
@@ -238,16 +248,6 @@ VALUサービス開始
 [**Masamune Date - Wikipedia**](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
 
 ![Image of Masamune Date](/images/b4.png/)
-
-### PL for VALU Excel sheet
-How to download
-
-![Image of hd2](/images/hd2.png/)
-
-ブラウザの左矢印で戻ります
-
-![Image of PL-VALU for Excel](/pl-valu.png)
-[**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
 ### Stop The Hiccup (Beta) for Android
 
