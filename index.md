@@ -18,7 +18,7 @@
 
 ![Image of ds3](/images/ds3.png/)
 
-### PL for VALU Excel sheet
+### PL for VALU Excel template
 How to download
 
 ![Image of hd2](/images/hd2.png/)
@@ -26,9 +26,10 @@ How to download
 ブラウザの左矢印で戻ります
 
 ![Image of PL-VALU for Excel](/pl-valu.png)
+
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
 
-## Hey Say Diary
+## 平成日記
 
 ### 平成元年(1989年)
 1月8日(日)
