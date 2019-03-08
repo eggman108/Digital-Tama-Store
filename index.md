@@ -8,7 +8,15 @@
 
 ### ds1
 
-![Image of ds1](/images/ds1s.png/)
+![Image of ds1](/images/ds1.png/)
+
+### ds2
+
+![Image of ds2](/images/ds2.png/)
+
+### ds3
+
+![Image of ds3](/images/ds3.png/)
 
 ## Hey Say Diary
 
@@ -232,6 +240,9 @@ VALUサービス開始
 ![Image of Masamune Date](/images/b4.png/)
 
 ### PL for VALU Excel sheet
+How to download
+
+![Image of hd2](/images/hd2.png/)
 
 ![Image of PL-VALU for Excel](/pl-valu.png)
 [**Download pl-valu.xlsx**](https://github.com/eggman108/PL-VALU-EXCEL/releases)
