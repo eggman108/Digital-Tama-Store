@@ -1,4 +1,4 @@
-# Welcome to Tama site
+# Welcome to Digital Tama Store
 
 ## デジタル書道
 
