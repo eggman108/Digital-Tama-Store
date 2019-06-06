@@ -1,4 +1,13 @@
-# Welcome to Digital Tama Store
+# Welcome to Tama Free Sight
+
+## くそコラミュージアム
+
+### 2019年
+4月9日(火)
+
+![Image of kc1](/images/kc1.png/)
+
+新1万円札の渋沢栄一を平泉成にしてみました
 
 ## 平成日記
 
