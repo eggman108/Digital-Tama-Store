@@ -4,7 +4,9 @@
 
 ### 2019年
 
-6月5日(水)山里亮太と蒼井優が結婚。ふたりの赤ちゃんを想像してみました
+6月5日(水)
+
+山里亮太と蒼井優が結婚。ふたりの赤ちゃんを想像してみました
 
 ![Image of kc3](/images/kc3.png/)
 
@@ -287,7 +289,7 @@ VALUサービス開始
 ![Image of No1](/images/i1.png/)
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
 
-## Unuploaded Pictures
+## ワケあり写真館
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
