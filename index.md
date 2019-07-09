@@ -7,7 +7,7 @@
 
 6月28日(金)
 
-G20大阪サミットをビートルズ風にしました
+G20大阪サミット開催。集合写真をビートルズ風にしてみました
 
 ![Image of kc8](/images/kc8.png/)
 
@@ -267,7 +267,9 @@ VALUサービス開始
 来年は東京オリンピック、2025年には大阪万博が開催されますが、
 昭和を繰り返してるような気がしないでもありません
 
-## Insta of the year 2018 My Best 10
+## Insta of the year 2018
+
+独断と偏見によるマイベスト10です
 
 No.10
 ![Image of No10](/images/i10.png/)
@@ -309,7 +311,8 @@ No.1
 ![Image of No1](/images/i1.png/)
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
 
-## ワケあり写真館
+## Unuploaded Pictures
+ワケあり写真館。ピンボケや逆光などでお蔵入りした写真
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
