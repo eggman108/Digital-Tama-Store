@@ -1,7 +1,7 @@
 # Welcome to Tama Free Sight
 
 ## Kuso-Cola Museum
-くそコラミュージアム
+## 1.くそコラミュージアム
 
 2019年
 
