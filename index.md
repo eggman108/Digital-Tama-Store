@@ -1,6 +1,5 @@
 # Welcome to Tama Free Sight
 
-## Kuso-Cola Museum
 ## 1.くそコラミュージアム
 
 2019年
@@ -41,7 +40,6 @@ G20大阪サミット開催。集合写真をビートルズ風にしてみま�
 
 ![Image of kc1](/images/kc1.png/)
 
-## Hey-Say Diary
 ## 2.平成日記
 
 平成元年(1989年)
@@ -268,7 +266,7 @@ VALUサービス開始
 来年は東京オリンピック、2025年には大阪万博が開催されますが、
 昭和を繰り返してるような気がしないでもありません
 
-## Insta of the year 2018
+## 3.インスタオブザイヤー2018
 
 独断と偏見によるマイベスト10です
 
@@ -312,8 +310,8 @@ No.1
 ![Image of No1](/images/i1.png/)
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
 
-## Unuploaded Pictures
-ワケあり写真館。ピンボケや逆光などでお蔵入りした写真
+## 4.ワケあり写真館
+ピンボケや逆光などでお蔵入りした写真
 
 [**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
@@ -331,7 +329,7 @@ No.1
 
 ![Image of Masamune Date](/images/b4.png/)
 
-## Link
+## 5.Link
 ![Image of blender](/blender.png/)
 [**blender**](https://www.blender.org/)
 
