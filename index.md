@@ -340,15 +340,15 @@ No.1
 
 [https://www.blender.org/](https://www.blender.org/)
 
-![Image of blender](/blender.png/)
+![Image of blender](/images/blender.png/)
 
 [https://wikitude.grapecity.com/](https://wikitude.grapecity.com/)
 
-![Image of wikitude](/wikitude.png/)
+![Image of wikitude](/images/wikitude.png/)
 
 [https://ja.monaca.io](https://ja.monaca.io)
 
-![Image of monaca](/monaca.png/)
+![Image of monaca](/images/monaca.png/)
 
 ## Support or Contact
 
