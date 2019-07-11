@@ -330,6 +330,10 @@ No.1
 ![Image of Masamune Date](/images/b4.png/)
 
 ## 5.リンク集
+[https://www.myheritage.jp/](https://www.myheritage.jp/)
+
+![Image of myheritage](/images/myheritage.png/)
+
 [https://www.autodraw.com/](https://www.autodraw.com/)
 
 ![Image of autodraw](/images/autodraw.png/)
