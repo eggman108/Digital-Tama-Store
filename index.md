@@ -313,19 +313,19 @@ No.1
 ## 4.ワケあり写真館
 ピンボケや逆光などでお蔵入りした写真
 
-[Tanikaze - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
+[谷風 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
 ![Image of Tanikaze](/images/b1.png/)
 
-[**Kiyoshi Shiga - Wikipedia**](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
+[志賀潔 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
 
 ![Image of Kiyoshi Shiga](/images/b2.png/)
 
-[**Shihei Hayashi - Wikipedia**](https://ja.wikipedia.org/wiki/%E6%9E%97%E5%AD%90%E5%B9%B3)
+[林子平 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%9E%97%E5%AD%90%E5%B9%B3)
 
 ![Image of Shihei Hayashi](/images/b3.png/)
 
-[**Masamune Date - Wikipedia**](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
+[伊達政宗 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
 
 ![Image of Masamune Date](/images/b4.png/)
 
