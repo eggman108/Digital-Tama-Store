@@ -313,7 +313,7 @@ No.1
 ## 4.ワケあり写真館
 ピンボケや逆光などでお蔵入りした写真
 
-[**Tanikaze - Wikipedia**](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
+[Tanikaze - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
 ![Image of Tanikaze](/images/b1.png/)
 
