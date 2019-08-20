@@ -96,7 +96,7 @@ No.1
 
 ![Image of kc1](/images/kc1.png/)
 
-## 2.平成日記
+## 3.平成日記
 平成は遠くになりにけり、ということで平成を日記風に振り返ります
 
 平成元年(1989年)
@@ -315,7 +315,7 @@ VALUサービス開始
 来年は東京オリンピック、2025年には大阪万博が開催されますが、
 昭和を繰り返してるような気がしないでもありません
 
-## 3.インスタオブザイヤー2018
+## 4.インスタオブザイヤー2018
 
 独断と偏見によるマイベスト10です
 
@@ -359,7 +359,7 @@ No.1
 ![Image of No1](/images/i1.png/)
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
 
-## 4.ワケあり写真館
+## 5.ワケあり写真館
 ピンボケや逆光などでお蔵入りした写真
 
 [谷風 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
@@ -378,7 +378,7 @@ No.1
 
 ![Image of Masamune Date](/images/b4.png/)
 
-## 5.リンク集
+## 6.リンク集
 [https://www.myheritage.jp/](https://www.myheritage.jp/)
 
 ![Image of myheritage](/images/myheritage.png/)
