@@ -1,4 +1,4 @@
-# Welcome to Valuer only site
+# Valuer only site
 
 ## 1.インスタ2019上半期ベスト10
 
