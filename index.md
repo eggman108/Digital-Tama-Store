@@ -1,58 +1,6 @@
 # Valuer only site
 
-## 1.インスタ2019上半期ベスト10
-
-No.10
-
-![Image of i19t10](/images/i19t10.png/)
-[https://www.instagram.com/p/Byoy0P1pBDV/](https://www.instagram.com/p/Byoy0P1pBDV/)
-
-No.9
-
-![Image of i19t09](/images/i19t09.png/)
-[https://www.instagram.com/p/Bx-obkoDlBd/](https://www.instagram.com/p/Bx-obkoDlBd/)
-
-No.8
-
-![Image of i19t08](/images/i19t08.png/)
-[https://www.instagram.com/p/By2JyS5jxWv/](https://www.instagram.com/p/By2JyS5jxWv/)
-
-No.7
-
-![Image of i19t07](/images/i19t07.png/)
-[https://www.instagram.com/p/BtlMmCfHHc1/](https://www.instagram.com/p/BtlMmCfHHc1/)
-
-No.6
-
-![Image of i19t06](/images/i19t06.png/)
-[https://www.instagram.com/p/ByNVYydIm14/](https://www.instagram.com/p/ByNVYydIm14/)
-
-No.5
-
-![Image of i19t05](/images/i19t05.png/)
-[https://www.instagram.com/p/Bxcxk_chP4q/](https://www.instagram.com/p/Bxcxk_chP4q/)
-
-No.4
-
-![Image of i19t04](/images/i19t04.png/)
-[https://www.instagram.com/p/Buol4b8Alzb/](https://www.instagram.com/p/Buol4b8Alzb/)
-
-No.3
-
-![Image of i19t03](/images/i19t03.png/)
-[https://www.instagram.com/p/BwIcc-zjaaL/](https://www.instagram.com/p/BwIcc-zjaaL/)
-
-No.2
-
-![Image of i19t02](/images/i19t02.png/)
-[https://www.instagram.com/p/Bxo-E62ligg/](https://www.instagram.com/p/Bxo-E62ligg/)
-
-No.1
-
-![Image of i19t01](/images/i19t01.png/)
-[https://www.instagram.com/p/Bt0BMLKHyJ2/](https://www.instagram.com/p/Bt0BMLKHyJ2/)
-
-## 2.くそコラミュージアム
+## 1.くそコラミュージアム
 
 2019年
 
@@ -104,7 +52,78 @@ No.1
 
 ![Image of kc1](/images/kc1.png/)
 
-## 3.平成日記
+## 2.インスタ2019上半期ベスト10
+
+No.10
+
+![Image of i19t10](/images/i19t10.png/)
+[https://www.instagram.com/p/Byoy0P1pBDV/](https://www.instagram.com/p/Byoy0P1pBDV/)
+
+No.9
+
+![Image of i19t09](/images/i19t09.png/)
+[https://www.instagram.com/p/Bx-obkoDlBd/](https://www.instagram.com/p/Bx-obkoDlBd/)
+
+No.8
+
+![Image of i19t08](/images/i19t08.png/)
+[https://www.instagram.com/p/By2JyS5jxWv/](https://www.instagram.com/p/By2JyS5jxWv/)
+
+No.7
+
+![Image of i19t07](/images/i19t07.png/)
+[https://www.instagram.com/p/BtlMmCfHHc1/](https://www.instagram.com/p/BtlMmCfHHc1/)
+
+No.6
+
+![Image of i19t06](/images/i19t06.png/)
+[https://www.instagram.com/p/ByNVYydIm14/](https://www.instagram.com/p/ByNVYydIm14/)
+
+No.5
+
+![Image of i19t05](/images/i19t05.png/)
+[https://www.instagram.com/p/Bxcxk_chP4q/](https://www.instagram.com/p/Bxcxk_chP4q/)
+
+No.4
+
+![Image of i19t04](/images/i19t04.png/)
+[https://www.instagram.com/p/Buol4b8Alzb/](https://www.instagram.com/p/Buol4b8Alzb/)
+
+No.3
+
+![Image of i19t03](/images/i19t03.png/)
+[https://www.instagram.com/p/BwIcc-zjaaL/](https://www.instagram.com/p/BwIcc-zjaaL/)
+
+No.2
+
+![Image of i19t02](/images/i19t02.png/)
+[https://www.instagram.com/p/Bxo-E62ligg/](https://www.instagram.com/p/Bxo-E62ligg/)
+
+No.1
+
+![Image of i19t01](/images/i19t01.png/)
+[https://www.instagram.com/p/Bt0BMLKHyJ2/](https://www.instagram.com/p/Bt0BMLKHyJ2/)
+
+## 3.ワケあり写真館
+ピンボケや逆光などでお蔵入りした写真
+
+[谷風 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
+
+![Image of Tanikaze](/images/b1.png/)
+
+[志賀潔 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
+
+![Image of Kiyoshi Shiga](/images/b2.png/)
+
+[林子平 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%9E%97%E5%AD%90%E5%B9%B3)
+
+![Image of Shihei Hayashi](/images/b3.png/)
+
+[伊達政宗 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
+
+![Image of Masamune Date](/images/b4.png/)
+
+## 4.平成日記
 平成は遠くになりにけり、ということで平成を日記風に振り返ります
 
 平成元年(1989年)
@@ -366,25 +385,6 @@ No.2
 No.1
 ![Image of No1](/images/i1.png/)
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
-
-## 5.ワケあり写真館
-ピンボケや逆光などでお蔵入りした写真
-
-[谷風 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
-
-![Image of Tanikaze](/images/b1.png/)
-
-[志賀潔 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
-
-![Image of Kiyoshi Shiga](/images/b2.png/)
-
-[林子平 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%9E%97%E5%AD%90%E5%B9%B3)
-
-![Image of Shihei Hayashi](/images/b3.png/)
-
-[伊達政宗 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97)
-
-![Image of Masamune Date](/images/b4.png/)
 
 ## 6.リンク集
 [https://www.myheritage.jp/](https://www.myheritage.jp/)
