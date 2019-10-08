@@ -1,4 +1,4 @@
-# Valuer only site
+# Valuer only Premium
 
 ## 1.くそコラミュージアム
 
@@ -342,7 +342,7 @@ VALUサービス開始
 来年は東京オリンピック、2025年には大阪万博が開催されますが、
 昭和を繰り返してるような気がしないでもありません
 
-## 4.インスタオブザイヤー2018
+## 5.インスタオブザイヤー2018
 
 独断と偏見によるマイベスト10です
 
@@ -387,6 +387,10 @@ No.1
 [https://www.instagram.com/p/BnIGtVfHIuq/](https://www.instagram.com/p/BnIGtVfHIuq/)
 
 ## 6.リンク集
+[https://developers.google.com/ar](https://developers.google.com/ar)
+
+![Image of arcore](/images/arcore.png/)
+
 [https://www.myheritage.jp/](https://www.myheritage.jp/)
 
 ![Image of myheritage](/images/myheritage.png/)
@@ -398,10 +402,6 @@ No.1
 [https://www.blender.org/](https://www.blender.org/)
 
 ![Image of blender](/images/blender.png/)
-
-[https://wikitude.grapecity.com/](https://wikitude.grapecity.com/)
-
-![Image of wikitude](/images/wikitude.png/)
 
 [https://ja.monaca.io](https://ja.monaca.io)
 
