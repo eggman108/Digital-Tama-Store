@@ -1,4 +1,4 @@
-# Valuer only Premium
+# VALUER ONLY PREMIUM
 
 ## 1.くそコラミュージアム
 
@@ -338,6 +338,7 @@ VALUサービス開始
 3月21日(木)
 
 ![Image of h27](/images/h27.jpg/)
+![Image of h29](/images/h29.jpg/)
 
 イチロー選手現役引退
 
