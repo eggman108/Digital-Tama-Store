@@ -4,6 +4,26 @@
 
 2019年
 
+11月10日(日)祝賀御列の儀とクールスを並べてみました
+
+![Image of kc15](/images/kc15.png/)
+
+11月9日(土)マスターズ甲子園でPL学園のユニフォーム姿の桑田真澄・Matt親子
+
+![Image of kc16](/images/kc16.png/)
+
+11月8日(金)「ガキ使」年末特番の収録中に骨折した佐野史郎さんの図
+
+![Image of kc12](/images/kc12.png/)
+
+11月2日(土)ラグビーワールドカップ2019南アフリカ優勝
+
+![Image of kc14](/images/kc14.png/)
+
+10月24日(木)Googleが発表した量子コンピューターを手のひらサイズにしました
+
+![Image of kc13](/images/kc13.png/)
+
 8月21日(水) マトリックス4の制作が決定
 
 ![Image of kc11](/images/kc11.png/)
