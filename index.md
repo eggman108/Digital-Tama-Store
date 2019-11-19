@@ -166,6 +166,8 @@ No.1
 
 ![Image of h03](/images/h03.jpg/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wltmIRW57Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 中国の黒歴史。
 
 11月9日(木) 「ベルリンの壁」崩壊
