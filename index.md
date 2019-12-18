@@ -1,6 +1,68 @@
 # VALUER ONLY PREMIUM
 
-## 1.くそコラミュージアム
+## 1.インスタオブザイヤー2019
+
+### 下半期
+
+No.10
+
+
+
+
+### 上半期
+
+No.10
+
+![Image of i19t10](/images/i19t10.png/)
+[https://www.instagram.com/p/Byoy0P1pBDV/](https://www.instagram.com/p/Byoy0P1pBDV/)
+
+
+No.9
+
+![Image of i19t09](/images/i19t09.png/)
+[https://www.instagram.com/p/Bx-obkoDlBd/](https://www.instagram.com/p/Bx-obkoDlBd/)
+
+No.8
+
+![Image of i19t08](/images/i19t08.png/)
+[https://www.instagram.com/p/By2JyS5jxWv/](https://www.instagram.com/p/By2JyS5jxWv/)
+
+No.7
+
+![Image of i19t07](/images/i19t07.png/)
+[https://www.instagram.com/p/BtlMmCfHHc1/](https://www.instagram.com/p/BtlMmCfHHc1/)
+
+No.6
+
+![Image of i19t06](/images/i19t06.png/)
+[https://www.instagram.com/p/ByNVYydIm14/](https://www.instagram.com/p/ByNVYydIm14/)
+
+No.5
+
+![Image of i19t05](/images/i19t05.png/)
+[https://www.instagram.com/p/Bxcxk_chP4q/](https://www.instagram.com/p/Bxcxk_chP4q/)
+
+No.4
+
+![Image of i19t04](/images/i19t04.png/)
+[https://www.instagram.com/p/Buol4b8Alzb/](https://www.instagram.com/p/Buol4b8Alzb/)
+
+No.3
+
+![Image of i19t03](/images/i19t03.png/)
+[https://www.instagram.com/p/BwIcc-zjaaL/](https://www.instagram.com/p/BwIcc-zjaaL/)
+
+No.2
+
+![Image of i19t02](/images/i19t02.png/)
+[https://www.instagram.com/p/Bxo-E62ligg/](https://www.instagram.com/p/Bxo-E62ligg/)
+
+No.1
+
+![Image of i19t01](/images/i19t01.png/)
+[https://www.instagram.com/p/Bt0BMLKHyJ2/](https://www.instagram.com/p/Bt0BMLKHyJ2/)
+
+## 2.くそコラミュージアム
 
 2019年
 
@@ -71,59 +133,6 @@
 新1万円札の渋沢栄一を平泉成にしてみました
 
 ![Image of kc1](/images/kc1.png/)
-
-## 2.インスタ2019上半期ベストテン
-
-No.10
-
-![Image of i19t10](/images/i19t10.png/)
-[https://www.instagram.com/p/Byoy0P1pBDV/](https://www.instagram.com/p/Byoy0P1pBDV/)
-
-
-No.9
-
-![Image of i19t09](/images/i19t09.png/)
-[https://www.instagram.com/p/Bx-obkoDlBd/](https://www.instagram.com/p/Bx-obkoDlBd/)
-
-No.8
-
-![Image of i19t08](/images/i19t08.png/)
-[https://www.instagram.com/p/By2JyS5jxWv/](https://www.instagram.com/p/By2JyS5jxWv/)
-
-No.7
-
-![Image of i19t07](/images/i19t07.png/)
-[https://www.instagram.com/p/BtlMmCfHHc1/](https://www.instagram.com/p/BtlMmCfHHc1/)
-
-No.6
-
-![Image of i19t06](/images/i19t06.png/)
-[https://www.instagram.com/p/ByNVYydIm14/](https://www.instagram.com/p/ByNVYydIm14/)
-
-No.5
-
-![Image of i19t05](/images/i19t05.png/)
-[https://www.instagram.com/p/Bxcxk_chP4q/](https://www.instagram.com/p/Bxcxk_chP4q/)
-
-No.4
-
-![Image of i19t04](/images/i19t04.png/)
-[https://www.instagram.com/p/Buol4b8Alzb/](https://www.instagram.com/p/Buol4b8Alzb/)
-
-No.3
-
-![Image of i19t03](/images/i19t03.png/)
-[https://www.instagram.com/p/BwIcc-zjaaL/](https://www.instagram.com/p/BwIcc-zjaaL/)
-
-No.2
-
-![Image of i19t02](/images/i19t02.png/)
-[https://www.instagram.com/p/Bxo-E62ligg/](https://www.instagram.com/p/Bxo-E62ligg/)
-
-No.1
-
-![Image of i19t01](/images/i19t01.png/)
-[https://www.instagram.com/p/Bt0BMLKHyJ2/](https://www.instagram.com/p/Bt0BMLKHyJ2/)
 
 ## 3.ワケあり写真館
 ピンボケや逆光などでお蔵入りした写真
