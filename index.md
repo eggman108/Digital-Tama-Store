@@ -92,11 +92,11 @@ No.1
 
 12月13日(金)イギリス総選挙でボリス・ジョンソン首相圧勝でEU離脱へ
 
-![Image of kc17](/images/kc17.png/)
+![Image of kc18](/images/kc18.png/)
 
 11月16日(土)沢尻エリカがMDMA所持で逮捕
 
-![Image of kc16](/images/kc16.png/)
+![Image of kc17](/images/kc17.png/)
 
 11月10日(日)祝賀御列の儀と似た画像を並べてみました
 
@@ -172,6 +172,8 @@ No.1
 [谷風 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B0%B7%E9%A2%A8%E6%A2%B6%E4%B9%8B%E5%8A%A9_(2%E4%BB%A3))
 
 ![Image of Tanikaze](/images/b1.png/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9IAxmkq6Ngk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [志賀潔 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E6%BD%94)
 
