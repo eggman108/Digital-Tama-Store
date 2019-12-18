@@ -90,6 +90,14 @@ No.1
 
 2019年
 
+12月13日(金)イギリス総選挙でボリス・ジョンソン首相圧勝でEU離脱へ
+
+![Image of kc17](/images/kc17.png/)
+
+11月16日(土)沢尻エリカがMDMA所持で逮捕
+
+![Image of kc16](/images/kc16.png/)
+
 11月10日(日)祝賀御列の儀と似た画像を並べてみました
 
 ![Image of kc15](/images/kc15.png/)
