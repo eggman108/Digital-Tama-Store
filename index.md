@@ -194,7 +194,6 @@ No.1
 
 1月8日(日) 平成スタート
 
-![Image of h01](/images/h01.jpg/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JX7AIklDPZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 昭和最後の日1月7日は土曜日だったので昼まで寝てたら昭和が終わってました。
