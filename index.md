@@ -381,7 +381,10 @@ VALUサービス開始
 
 3月21日(木)
 
-![Image of h27](/images/h27.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBWm0HoyJ6c?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBWm0HoyJ6c?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of h29](/images/h29.jpg/)
 
 イチロー選手現役引退
