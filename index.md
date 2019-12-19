@@ -1,7 +1,7 @@
 # VALUER ONLY PREMIUM
 
 ## 1.インスタオブザイヤー2019
-下半期
+独断と偏見による下半期ベスト10です
 
 No.10
 
@@ -381,9 +381,7 @@ VALUサービス開始
 
 3月21日(木)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBWm0HoyJ6c?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBWm0HoyJ6c?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBWm0HoyJ6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Image of h29](/images/h29.jpg/)
 
