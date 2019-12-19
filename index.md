@@ -306,7 +306,7 @@ Twitter、Facebookアメリカでサービス開始
 
 11月4日(水)
 
-![Image of h22](/images/h22.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qVr73h7Was" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ワールドシリーズでヤンキースの松井秀喜選手が日本人初のMVP
 
