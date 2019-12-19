@@ -263,7 +263,7 @@ Windows95日本発売
 
 9月24日(日)
 
-![Image of h20](/images/h20.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwXy9M3wakk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 シドニーオリンピック女子マラソンで高橋尚子選手が日本女子陸上界初の金メダル
 
@@ -296,7 +296,7 @@ Twitter、Facebookアメリカでサービス開始
 
 平成19年(2007年)
 
-![Image of h11](/images/h11.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0XeQhSnkHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 初代iPhone発売
 
