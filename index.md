@@ -352,13 +352,12 @@ VALUサービス開始
 
 平成30年(2018年)
 
-3月29日(木)
+4月3日(火)
 
-![Image of h25](/images/h25.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/keVRrIHZNMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-大谷翔平選手メジャーデビュー
+大谷翔平選手メジャー初ホームラン
 
-試合は延長11回にサヨナラ負けで、成績は5打数1安打1三振でした。
 サイレントトリートメントがマイブームになりました。
 
 6月12日(火)
