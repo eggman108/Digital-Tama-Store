@@ -392,7 +392,7 @@ VALUサービス開始
 
 4月1日(月)
 
-![Image of h28](/images/h28.jpg/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mX-FPTnBIS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 新元号「令和」発表
 
