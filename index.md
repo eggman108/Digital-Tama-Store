@@ -427,6 +427,10 @@ No.1
 
 ![Image of expo_snack](/images/expo_snack.png/)
 
+[https://www.geni.com/](https://www.geni.com/)
+
+![Image of geni](/images/geni.png/)
+
 [https://developers.google.com/ar](https://developers.google.com/ar)
 
 ![Image of arcore](/images/arcore.png/)
